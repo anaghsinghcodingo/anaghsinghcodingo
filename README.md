@@ -77,7 +77,7 @@ The Quantara Nexus website I built — showcasing our work and platform.
 
 ## GitHub Stats
 <p float="left">
-  [![GitHub Streak](https://streak-stats.demolab.com?user=anaghsinghcodingo)](https://git.io/streak-stats)
+  <img src="https://streak-stats.demolab.com?user=anaghsinghcodingo" alt="Anagh's GitHub stats" width="48%"/>
 </p>
 
 ---
@@ -96,7 +96,7 @@ Open to: full-time roles, contract work, and collaborative projects — email is
 - Weekend hobby: web animations and design polish
 
 ---
-## Passion writes the code, persistence makes it work.
-### -Anagh Singh
+## Passion writes the code, persistence makes it work.    => Anagh Singh
+
 
 ---
