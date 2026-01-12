@@ -52,7 +52,7 @@ I'm a full‑stack developer and Co‑Founder of Quantara Nexus. I build polishe
 ---
 
 ## Tech & Skills
-HTML · CSS · JavaScript · TypeScript · React · Node.js · Python · Git · Vite · Tailwind · Docker · CI/CD
+HTML · CSS · JavaScript · TypeScript · React · Python · Git · Tailwind 
 
 <p>
   <img src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white" /> 
